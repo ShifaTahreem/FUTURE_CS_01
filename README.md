@@ -19,7 +19,7 @@ Tools Used:
 * Browser Developer Tools
 * SecurityHeaders.com
 
-Findings Summary
+Findings Summary:
 | ID   | Finding                         | Risk   |
 | ---- | ------------------------------- | ------ |
 | F-01 | Missing Content Security Policy | Medium |
@@ -28,13 +28,13 @@ Findings Summary
 | F-04 | Website Accessible Over HTTP    | Medium |
 | F-05 | Publicly Accessible Services    | Low    |
 
-Conclusion
+Conclusion:
 The assessment identified multiple security configuration weaknesses related to missing security headers and exposed services. Recommendations were provided to improve the overall security posture of the application.
 
-Repository Contents
+Repository Contents:
 * Vulnerability_Assessment_Report.pdf
 * Evidence Screenshots
 * README Documentation
 
-Disclaimer
+Disclaimer:
 This assessment was conducted using passive, read-only techniques in accordance with the task guidelines. No exploitation, denial-of-service testing, authentication bypass, or unauthorized actions were performed.
